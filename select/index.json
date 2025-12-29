@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シンカケイスケッチ",
+  "base_artist": "しぐれうい",
+  "createdAt": "2025-12-29T06:50:30.676958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンカケイスケッチ",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_シンカケイスケッチ_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンカケイスケッチ (instrumental)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/02_シンカケイスケッチ_(instrumental)_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンカケイスケッチ（Instrumental）",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/03_シンカケイスケッチ(Instrumental)_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンカケイスケッチ",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_シンカケイスケッチ_しぐれうい.txt"
+    }
+  ]
+}
